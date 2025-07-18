@@ -160,10 +160,14 @@ padding: 0px 20px;
     margin-top: 500px;
 }
 
-.kontak-ku {
-    background-color: grey;
-    width: 100px;
+
+.footer-horizontal {
+    background-color: #666;
     color: white;
-    padding: 30px;
-    margin: 50px auto 0px;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
